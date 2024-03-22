@@ -1,5 +1,15 @@
 # 소아과 프로젝트
 
+
+<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> 
+<img src="https://img.shields.io/badge/next-000000?style=for-the-badge&logo=next.js&logoColor=white"> 
+
+
+
+
+----------------------------
+
+
 ## 프로젝트 운영 방식
 
 > 프로젝트 일정 및 모임의 방법에 대해 정의합니다.
@@ -12,17 +22,7 @@
 
 
 
-
-
-
-
 ----------------------------
-
-
-
-
-
-
 
 
 
@@ -39,13 +39,6 @@
   * 이런 부분에 도움을 줍니다.
 
 ~
-
-
-
-
-
-
-
 
 
 ----------------------------
