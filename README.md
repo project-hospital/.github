@@ -1,9 +1,11 @@
 # 소아과 프로젝트
 
+<div align=center><h1>📚 STACKS</h1></div>
 
-<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> 
-<img src="https://img.shields.io/badge/next-000000?style=for-the-badge&logo=next.js&logoColor=white"> 
-
+<div align=center> 
+ <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> 
+ <img src="https://img.shields.io/badge/next-000000?style=for-the-badge&logo=next.js&logoColor=white">
+</div>
 
 
 
