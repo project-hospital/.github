@@ -41,7 +41,11 @@ https://simpleicons.org/?q=next
   * 이러한 상황에 대응합니다.
   * 이런 부분에 도움을 줍니다.
 
-~
+
+Google Document
+
+https://docs.google.com/document/d/1NPXBmu2PoWu2UIUH8sGTezut5sOf6Nxv0LyIjv1WGIE/edit?usp=sharing
+
 
 
 ----------------------------
