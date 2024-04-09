@@ -32,6 +32,10 @@ https://simpleicons.org/?q=next
 ## 기획안
 
 > 프로젝트의 컨셉을 이해하고 정의되어있지 않은 상황에서 참고할 수 있도록 정체성을 확립할 수 있는 몇가지 키워드와 문장으로 정의합니다.
+> Figma
+
+
+https://www.figma.com/file/VbgmEPOsB3Fe7MXjjA0T1P/Figma-basics?type=design&node-id=1669%3A162202&mode=design&t=fxI845BDpFENOFWD-1
 
 
 ### 우리는 이러한 앱을 만들것입니다.
